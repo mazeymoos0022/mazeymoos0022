@@ -12,3 +12,5 @@
 [![MazeyMoos0022's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazeymoos0022&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Mazey's Website
+
+[![Mazey's Website](https://www.mazeymoos.com/)](https://www.mazeymoos.com)
