@@ -13,4 +13,4 @@
 
 # Mazey's Website
 
-[![Mazey's Website](https://www.mazeymoos.com/webpage2024-11-23 121446.png)](https://www.mazeymoos.com)
+[![Mazey's Website](https://www.mazeymoos.com/webpage2024-11-23%20121446.png)](https://www.mazeymoos.com)
