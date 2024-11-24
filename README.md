@@ -1,7 +1,7 @@
 ## Mazey's Info!
 
 # Latest Repository
-[![Latest Repo](https://github.com/mazeymoos0022/brookes-server/image.png)](https://github.com/mazeymoos0022/brookes-server)
+[![Latest Repo](https://raw.githubusercontent.com/mazeymoos0022/brookes-server/refs/heads/main/image.png)](https://github.com/mazeymoos0022/brookes-server)
 
 # Discord RPC Presence
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
