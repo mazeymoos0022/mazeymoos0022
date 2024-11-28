@@ -1,7 +1,7 @@
 ## Mazey's Info!
 
 # Latest Repository
-[![Latest Repo](https://raw.githubusercontent.com/UnifiedGaming-Systems/unified-game-launcher/refs/heads/main/picture.png)](https://github.com/UnifiedGaming-Systems/unified-game-launcher)
+[![Latest Repo](https://raw.githubusercontent.com/UnifiedGaming-Systems/website/refs/heads/main/image.png)](https://github.com/UnifiedGaming-Systems/website)
 
 # Discord RPC Presence
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
