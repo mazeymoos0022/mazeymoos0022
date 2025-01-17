@@ -8,6 +8,3 @@
 
 # Mazey's Github Info
 [![MazeyMoos0022's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazeymoos0022&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-# Mazey's Website
-[![Mazey's Website](https://www.mazeymoos.com/webpage2024-11-23%20121446.png)](https://www.mazeymoos.com)
