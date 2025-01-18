@@ -2,12 +2,15 @@
 ![](https://img.shields.io/badge/MazeyMoos0022-%23121011.svg?logo=github&logoColor=white)
 
 ## 📩 Contact
-![](https://img.shields.io/badge/mazeymoos0022-%23E4405F.svg?logo=Instagram&logoColor=white)
+[![Reddit](https://img.shields.io/badge/MazeyMoos0022-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/mazeymoos0022)
+[![](https://img.shields.io/badge/mazeymoos0022-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mazeymoos0022)
 ![](https://img.shields.io/badge/mazeymoos0022-%235865F2.svg?&logo=discord&logoColor=white)
-![](https://img.shields.io/badge/-mazeymoos0022%40gmail.com-c71610?logo=Gmail&)
+[![](https://img.shields.io/badge/-mazeymoos0022%40gmail.com-c71610?logo=Gmail&)](mailto:mazeymoos0022@gmail.com)
+[![](https://img.shields.io/badge/mazeymoos0022%40proton.me-6D4AFF?logo=protonmail&logoColor=fff)](mailto:mazeymoos0022@proton.me)
 
 ## 🌐 Website
 <a href="https://www.mazeymoos.com"><img src="https://img.shields.io/badge/-My%20Website-lightgrey?logo=GitHub"></a>
+<a href="https://unifiedgaming-systems.mazeymoos.com"><img src="https://img.shields.io/badge/-UnifiedGaming%20Systems-lightgrey?logo=GitHub"></a>
 
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=mazeymoos0022&label=Profile%20Views&color=008042&label=Visitors" alt="Visitors"></a>
