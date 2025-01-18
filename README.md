@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/MazeyMoos0022-%23121011.svg?logo=github&logoColor=white)
 
 ## 📩 Contact
-![Instagram](https://img.shields.io/badge/mazeymoos0022-%23E4405F.svg?logo=Instagram&logoColor=white)
-![](https://img.shields.io/badge/-mazeymoos0022%235865F2.svg?logo=Discord)
+![](https://img.shields.io/badge/mazeymoos0022-%23E4405F.svg?logo=Instagram&logoColor=white)
+![](https://img.shields.io/badge/mazeymoos0022-%235865F2.svg?&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/-mazeymoos0022%40gmail.com-c71610?logo=Gmail&)
 
 ## 🌐 Website
