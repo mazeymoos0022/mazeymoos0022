@@ -12,7 +12,9 @@
 
 ## 🌐 Website
 <a href="https://www.mazeymoos.com"><img src="https://img.shields.io/badge/-My%20Website-lightgrey?logo=GitHub"></a>
+![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 <a href="https://unifiedgaming-systems.mazeymoos.com"><img src="https://img.shields.io/badge/-UnifiedGaming%20Systems-lightgrey?logo=GitHub"></a>
+![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=mazeymoos0022&label=Profile%20Views&color=008042&label=Visitors" alt="Visitors"></a>
