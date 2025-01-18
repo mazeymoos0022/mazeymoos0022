@@ -2,11 +2,13 @@
 ![](https://img.shields.io/badge/MazeyMoos0022-%23121011.svg?logo=github&logoColor=white)
 
 ## 📩 Contact
-[![Reddit](https://img.shields.io/badge/MazeyMoos0022-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/mazeymoos0022)
+[![](https://img.shields.io/badge/MazeyMoos0022-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mazeymoos0022)
+[![](https://img.shields.io/badge/MazeyMoos0022-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/mazeymoos0022)
 [![](https://img.shields.io/badge/mazeymoos0022-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mazeymoos0022)
 ![](https://img.shields.io/badge/mazeymoos0022-%235865F2.svg?&logo=discord&logoColor=white)
 [![](https://img.shields.io/badge/-mazeymoos0022%40gmail.com-c71610?logo=Gmail&)](mailto:mazeymoos0022@gmail.com)
 [![](https://img.shields.io/badge/mazeymoos0022%40proton.me-6D4AFF?logo=protonmail&logoColor=fff)](mailto:mazeymoos0022@proton.me)
+[![](https://img.shields.io/badge/mazeymoos0022-%23000000.svg?logo=X&logoColor=white)](https://www.x.com/mazeymoos0022)
 
 ## 🌐 Website
 <a href="https://www.mazeymoos.com"><img src="https://img.shields.io/badge/-My%20Website-lightgrey?logo=GitHub"></a>
@@ -53,7 +55,7 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ### ⚙️ Tools
-![](https://img.shields.io/badge/Terminal-4D4D4D.svg?logo=WindowsTerminal&logoColor=white))
+![](https://img.shields.io/badge/Terminal-4D4D4D.svg?logo=WindowsTerminal&logoColor=white)
 
 # Discord RPC Presence
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
