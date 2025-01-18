@@ -1,5 +1,6 @@
 ## Mazey's Info!
-![](https://img.shields.io/badge/MazeyMoos0022-%23121011.svg?logo=github&logoColor=white)
+[![](https://img.shields.io/badge/MazeyMoos0022-%23121011.svg?logo=github&logoColor=white)](https://github.mazeymoos.com)
+[![](https://img.shields.io/badge/UnifiedGaming%20Systems-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/unifiedgaming-systems)
 
 ## 📩 Contact
 [![](https://img.shields.io/badge/MazeyMoos0022-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mazeymoos0022)
