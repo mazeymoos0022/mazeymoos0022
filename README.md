@@ -2,6 +2,9 @@
 
 I'm a passionate developer with experience in various programming languages, frameworks, and tools. I enjoy exploring new technologies, building innovative projects, and contributing to open-source communities. Take a look at my work below, and feel free to connect with me or collaborate!
 
+[![Epic Games](https://img.shields.io/badge/EpicGames-Developer-blue)](https://github.com/EpicGames)
+[![Unified Gaming Systems](https://img.shields.io/badge/UnifiedGaming%20Systems-CEO-brightgreen)](https://github.com/UnifiedGaming-Systems)
+
 ---
 
 ## 📩 Contact Me
