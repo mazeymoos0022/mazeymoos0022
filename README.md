@@ -70,3 +70,9 @@ I'm a passionate developer with experience in various programming languages, fra
 ## 🎵 Spotify Currently Playing
 
 ![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=x060f5w4ftwv8zc8fi9662t70&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+
+---
+
+## 🛡️ Policies
+
+For information regarding our policies, please visit the [UnifiedGaming Systems Policies Repository](https://github.com/UnifiedGaming-Systems/policies).
