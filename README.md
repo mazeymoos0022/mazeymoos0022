@@ -55,8 +55,8 @@ I'm a passionate developer with experience in various programming languages, fra
 - **[Minecraft Whitelist Discord Bot](https://github.com/mazeymoos0022/Minecraft-Whitelist-Discord-Bot)**  
   A simple Python script to whitelist your Minecraft Players onto your Server via a Discord Bot.
 
-- **[Cutiecord Plugin](https://github.com/mazeymoos0022/CutiecordPlugin)**  
-  A fun plugin for the Cutiecord Minecraft server.
+- **[EstrocordPlugin](https://github.com/mazeymoos0022/EstrocordPlugin)**  
+  A fun little plugin full of fun.
 
 ---
 
