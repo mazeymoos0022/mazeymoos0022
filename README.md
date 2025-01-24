@@ -4,6 +4,7 @@ I'm a passionate developer with experience in various programming languages, fra
 
 [![Epic Games](https://img.shields.io/badge/EpicGames-Developer-blue)](https://github.com/EpicGames)
 [![Unified Gaming Systems](https://img.shields.io/badge/UnifiedGaming%20Systems-CEO-brightgreen)](https://github.com/UnifiedGaming-Systems)
+[![SoMC](https://img.shields.io/badge/SoMC-Linux%20Admin%and%Contributor-red)](https://github.com/SocialMinecraft)
 
 ---
 
