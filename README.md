@@ -1,4 +1,4 @@
-# Hi, I'm Mazey-Jessica Twilight (Clove)! 👋 Welcome to My GitHub Profile!
+# Hi, I'm Clove Twilight (Also known as Mazey)! 👋 Welcome to My GitHub Profile!
 
 I'm a passionate developer with experience in various programming languages, frameworks, and tools. I enjoy exploring new technologies, building innovative projects, and contributing to open-source communities. Take a look at my work below, and feel free to connect with me or collaborate!
 
