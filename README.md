@@ -54,8 +54,8 @@ I'm a passionate developer with experience in various programming languages, fra
 - **[UnifiedGaming Launcher](https://github.com/UnifiedGaming-Systems/unifiedgaming-launcher)**  
   A cross-platform game library manager that unifies your gaming experience across multiple platforms including Steam, Epic Games, PlayStation, Xbox, and GOG.
 
-- **[Minecraft Whitelist Discord Bot](https://github.com/mazeymoos0022/Minecraft-Whitelist-Discord-Bot)**  
-  A simple Python script to whitelist your Minecraft Players onto your Server via a Discord Bot.
+- **[Minecraft Whitelist Discord Bot](https://github.com/CloveTwilight3/Minecraft-Whitelist-Discord-Bot)**  
+  A plugin to whitelist your Minecraft Players onto your Server via a Discord Bot with MySql Intergrations
 
 - **[EstrocordPlugin](https://github.com/mazeymoos0022/EstrocordPlugin)**  
   A fun little plugin full of fun.
