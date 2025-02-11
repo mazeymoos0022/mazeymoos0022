@@ -57,15 +57,15 @@ I'm a passionate developer with experience in various programming languages, fra
 - **[Minecraft Whitelist Discord Bot](https://github.com/CloveTwilight3/Minecraft-Whitelist-Discord-Bot)**  
   A plugin to whitelist your Minecraft Players onto your Server via a Discord Bot with MySql Intergrations
 
-- **[EstrocordPlugin](https://github.com/mazeymoos0022/EstrocordPlugin)**  
+- **[EstrocordPlugin](https://github.com/CloveTwilight3/EstrocordPlugin)**  
   A fun little plugin full of fun.
 
 ---
 
 ## 📊 GitHub Stats
 
-![MazeyMoos0022's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazeymoos0022&theme=dracula&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazeymoos0022&layout=compact&theme=dracula)
+![MazeyMoos0022's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovetwilight3&theme=dracula&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clovetwilight3&layout=compact&theme=dracula)
 
 ---
 
