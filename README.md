@@ -36,10 +36,10 @@ I'm a passionate developer with experience in various programming languages, fra
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white) ![](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff) ![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important) ![](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 
 ### **Languages**
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff) ![](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff) ![](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
 ### **Frameworks & Libraries**
-![](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Discord.js-512BD4.svg?logo=Discord&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Discord.js-512BD4.svg?logo=Discord&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ### **Cloud Hosting**
 ![](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white) ![](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)
